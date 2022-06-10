@@ -9,7 +9,7 @@
 ☐ Getting Started: In this section include the link to your deployed game and any instructions you deem important. 
  at the first, i think about which part do i need at the broswer. secondly, i think about what function do i need to support evch part. i need an array about the words, and they should shows random. also, i have to check the type in math the answer. at last, i have to count the chance.
 
-☐ Next Steps: Planned future enhancements (icebox items).
+☐ Next Steps:1,make it be a flash vidoe will be more intereting. 2,have a time count..
 
 
 https://dawnml.github.io/hangman/
